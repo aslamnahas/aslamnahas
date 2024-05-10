@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python, django,sql,postgresql
-- 📫 You can reach me at: [nahasnazzz06@gmail.com](mailto:nahasnazzz06@gmail.com
+- 📫 You can reach me at: [nahasnazzz06@gmail.com](mailto:nahasnazzz06@gmail.com)
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/aslamnahas).
 - 💬 Ask me about PostgreSQL databases, Git, Data structures, new trends in development, and anything about python.
   
