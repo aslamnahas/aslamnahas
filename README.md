@@ -1,4 +1,5 @@
-###- 👋 Hi, I’m aslamnahas
+###  Hi, I’m aslamnahas👋
+
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python, django,sql,postgresql
 - 📫 You can reach me at: [nahasnazzz06@gmail.com](mailto:nahasnazzz06@gmail.com
