@@ -4,11 +4,11 @@
 - 📫 How to reach me nahasnazzz06@gmail.com
 - 💬 Ask me about PostgreSQL databases, Git, Data structures, new trends in development, and anything about python.
 
-📫 You can reach me at: [joelmathew857@gmail.com](mailto:joelmathew857@gmail.com)
+📫 You can reach me at: [nahasnazzz06@gmail.com](mailto:nahasnazzz06@gmail.com)
 
 - 🌱 I’m currently learning Mern.
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/joeltdev).
-- 💬 Ask me about PostgreSQL databases, Git, Data structures, new trends in development, and anything about Go.
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/aslamnahas).
+- 💬 Ask me about PostgreSQL databases, Git, Data structures, new trends in development, and anything about python.
   
 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
